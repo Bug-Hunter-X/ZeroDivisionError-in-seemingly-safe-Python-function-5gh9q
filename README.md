@@ -1,0 +1,1 @@
+This repository demonstrates a subtle ZeroDivisionError in Python code. The function appears safe, but it throws the error under specific, easy-to-miss conditions. This highlights the importance of thorough input validation and robust error handling in Python programs. The bug and its solution are included in separate files for clarity.
